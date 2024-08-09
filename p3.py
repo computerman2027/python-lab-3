@@ -1,4 +1,4 @@
-g=float(input("enter grade : "))
+g=float(input("enter score : "))
 if(g>=0.0 and g<=1.0):
     if g>=0.9:
         print("A")

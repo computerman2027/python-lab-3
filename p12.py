@@ -6,3 +6,4 @@ except ValueError:
     print("only float and integer accepted")
 else:
     print("max = ",max(a,b,c))
+    print("min = ",min(a,b,c))
